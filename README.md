@@ -1,6 +1,6 @@
 # Ping Pong
 
-**Name:** Your Name  
+**Name:** Md. Ashikur Reza
 **Student ID:** 11230321219  
 
 ## About the Game
