@@ -22,5 +22,3 @@ Ping Pong is an arcade paddle game built with Python and Pygame where two player
 - **Pause & Restart Controls:** Pause anytime with `P` or the on-screen button, restart after a match with `SPACE`, or return to the menu with `ESC`.
 - **Custom Visual Theme:** Uses a deep navy background with complementary blue and orange paddles/scores, a dashed center line, and a soft glow behind the ball.
 
-## Screenshots
-![Gameplay](gameplay.png)
